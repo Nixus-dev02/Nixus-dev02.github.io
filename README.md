@@ -2,8 +2,8 @@
 Background the color random
 
 Practicando javascript.
-Haciendo peticion a  una api,
-y con un boton que cada que le doy click
+Haciendo peticion a  una api.
+Tambien tengo un boton llamado "click me" que cada que le doy click
 me genere un color diferente.
 
 https://xein-dev.github.io/Random-Background/
